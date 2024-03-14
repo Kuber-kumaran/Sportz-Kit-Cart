@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Adidas Boots",
+      "amt": 150,
+      "shop": "Sporting Goods Emporium",
+      "kit-type": "Football Boots",
+      "pic": "https://example.com/adidas-boots.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Wilson Racket",
+      "amt": 200,
+      "shop": "Ace Sports",
+      "kit-type": "Tennis Racket",
+      "pic": "https://example.com/wilson-racket.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Nike Soccer Ball",
+      "amt": 30,
+      "shop": "Soccer Central",
+      "kit-type": "Soccer Ball",
+      "pic": "https://example.com/nike-soccer-ball.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Yonex Racket",
+      "amt": 130,
+      "shop": "Shuttle Sports",
+      "kit-type": "Badminton Racket",
+      "pic": "https://example.com/yonex-racket.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Under Armour Shirt",
+      "amt": 50,
+      "shop": "Fitness Pro",
+      "kit-type": "Fitness Apparel",
+      "pic": "https://example.com/under-armour-shirt.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Rawlings Glove",
+      "amt": 80,
+      "shop": "Diamond Sports",
+      "kit-type": "Baseball Glove",
+      "pic": "https://example.com/rawlings-glove.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Speedo Swimsuit",
+      "amt": 40,
+      "shop": "Aquatic Essentials",
+      "kit-type": "Swimsuit",
+      "pic": "https://example.com/speedo-swimsuit.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Mizuno Shoes",
+      "amt": 130,
+      "shop": "Marathon Sports",
+      "kit-type": "Running Shoes",
+      "pic": "https://example.com/mizuno-shoes.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Gunn & Moore Bat",
+      "amt": 150,
+      "shop": "Cricket Warehouse",
+      "kit-type": "Cricket Bat",
+      "pic": "https://example.com/gunn-moore-bat.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Stiga Racket",
+      "amt": 80,
+      "shop": "Ping Pong Palace",
+      "kit-type": "Table Tennis Racket",
+      "pic": "https://example.com/stiga-racket.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Bauer Skates",
+      "amt": 250,
+      "shop": "Ice World",
+      "kit-type": "Hockey Skates",
+      "pic": "https://example.com/bauer-skates.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Easton Bat",
+      "amt": 100,
+      "shop": "Softball Superstore",
+      "kit-type": "Softball Bat",
+      "pic": "https://example.com/easton-bat.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Giro Helmet",
+      "amt": 50,
+      "shop": "Cycling Gear Outlet",
+      "kit-type": "Bike Helmet",
+      "pic": "https://example.com/giro-helmet.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Spalding Basketball",
+      "amt": 30,
+      "shop": "Hoops Heaven",
+      "kit-type": "Basketball",
+      "pic": "https://example.com/spalding-basketball.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Head Racquet",
+      "amt": 180,
+      "shop": "Squash Supreme",
+      "kit-type": "Squash Racquet",
+      "pic": "https://example.com/head-racquet.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Oakley Sunglasses",
+      "amt": 150,
+      "shop": "Sports Optics Center",
+      "kit-type": "Sports Sunglasses",
+      "pic": "https://example.com/oakley-sunglasses.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Mitre Football",
+      "amt": 20,
+      "shop": "Kick It Sports",
+      "kit-type": "Football",
+      "pic": "https://example.com/mitre-football.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Prince Backpack",
+      "amt": 60,
+      "shop": "Tennis Gear Hub",
+      "kit-type": "Tennis Bag",
+      "pic": "https://example.com/prince-backpack.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Puma Cleats",
+      "amt": 200,
+      "shop": "Soccer Pro",
+      "kit-type": "Soccer Cleats",
+      "pic": "https://example.com/puma-cleats"
+    },
+    {
+      "id": 20,
+      "name": "Nimbus Running Shoes",
+      "amt": 180,
+      "shop": "Runners' Haven",
+      "kit-type": "Running Shoes",
+      "pic": "https://example.com/asics-gel-nimbus.jpg"
+    }
+  ]
+  
